@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.BG{
+    background-color: #A06D21;
+    text-align: center;
+    position: relative;
+    height: 300px;
+}
+h1{
+    color: #FFCC00;
+    z-index: 2;
+    position: relative;
+}
+p{
+    color: #FFFFFF;
+    text-align: left;
+    margin: 0 10px 0 10px;
+    z-index: 2;
+    position: relative;
+}
+img{
+    width: 300px;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+}

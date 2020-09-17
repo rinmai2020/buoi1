@@ -1,0 +1,13 @@
+.h1{
+    border: 8px double orangered;
+}
+h1{
+    text-align: center;
+    color: orangered;
+}
+.span{
+    background-color: orangered;
+}
+span{
+    color: #fff;
+}

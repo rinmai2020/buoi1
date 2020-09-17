@@ -1,0 +1,25 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    background-color: #FECFFD ;
+}
+.h1{
+    text-align: center;
+    color: #FF3399;
+}
+.content{
+    background-color:#FFFFCC ;
+}
+p{
+    text-align: center;
+}
+.p1{
+    color: #0000FF;  
+  }
+.p2{
+    color: red ;
+}
+.p3{
+  color: #006600;  
+}

@@ -1,0 +1,15 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-decoration: underline;
+}
+span{
+    font-weight: bold;
+}
+p{
+    text-align: center;
+}
