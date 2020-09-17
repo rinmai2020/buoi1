@@ -1,5 +1,5 @@
 <?php
 
-include_once("../bai1/home.html");
+include_once("home.html");
 
 ?>
